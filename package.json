@@ -1,0 +1,10 @@
+{
+  "name": "polyglotis-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Romans 8:28 – Polyglotis website and Polyglotis HQ (Netlify Functions + Netlify Blobs)",
+  "dependencies": {
+    "@netlify/blobs": "11.1.6"
+  }
+}
